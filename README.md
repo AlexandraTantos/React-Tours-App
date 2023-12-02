@@ -1,4 +1,3 @@
-# React-Tours-App
 - App.jsx fetches tours data from a URL and sets the state of the Tours component to store the data.
 - The Tours component maps over the tours array and renders a Tour component for each tour.
 - Each Tour component has a "remove tour" button and a "read more" button.When the "remove tour" button is clicked, the Tours component updates its state to remove the tour from the tours array.
